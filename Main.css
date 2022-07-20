@@ -262,8 +262,22 @@ footer h4{
     
     .menu-button{
         background-color:  #fff;
+
     }
     
+    .menu{
+        color: #fff;
+    }
+    .nav-menu .nav-link{
+        color: #fff !important;
+    }
+
+    .navbar-brand{
+        color: #fff !important
+    }
+    .navbar-light .navbar-toggler-icon{
+        color: #fff !important;
+    }
     .section3-h{
         width: 100%;
         padding: 20px;
